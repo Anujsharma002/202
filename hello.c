@@ -2,6 +2,6 @@
 int main()
 {
 int a=5;
-printf("Hello world %d times",a);
+printf("Hello world %d times\n",a);
 return 0;
 }
